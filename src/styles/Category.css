@@ -1,0 +1,21 @@
+.category {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px 0;
+    background-color: #2E4739;
+  }
+  
+  .category-item {
+    text-align: center;
+    color: white;
+  }
+  
+  .category-item .icon {
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  

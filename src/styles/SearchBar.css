@@ -1,0 +1,15 @@
+.search-bar {
+    text-align: center;
+    padding: 20px;
+    background-color: #2E4739;
+    color: white;
+  }
+  
+  .search-input input {
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    width: 50%;
+    font-size: 1rem;
+  }
+  
